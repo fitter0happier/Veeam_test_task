@@ -1,0 +1,59 @@
+2024-11-22 11:57:26,729 - INFO - The synchronization process has started.
+2024-11-22 11:57:26,729 - INFO - It will run every 5 seconds.
+2024-11-22 11:57:26,729 - INFO - Starting synchronization cycle.
+2024-11-22 11:57:34,238 - INFO - Synchronization cycle complete.
+2024-11-22 11:57:39,243 - INFO - Starting synchronization cycle.
+2024-11-22 11:57:46,809 - INFO - Synchronization cycle complete.
+2024-11-22 11:57:51,814 - INFO - Starting synchronization cycle.
+2024-11-22 11:57:59,025 - INFO - Copied/Updated: source/FEMNIST/.DS_Store -> replica/FEMNIST/.DS_Store
+2024-11-22 11:57:59,462 - INFO - Synchronization cycle complete.
+2024-11-22 11:58:04,467 - INFO - Starting synchronization cycle.
+2024-11-22 11:58:11,685 - INFO - Deleted file: replica/Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf
+2024-11-22 11:58:11,685 - INFO - Synchronization cycle complete.
+2024-11-22 11:58:16,690 - INFO - Starting synchronization cycle.
+2024-11-22 11:58:16,908 - INFO - Copied/Updated: source/.DS_Store -> replica/.DS_Store
+2024-11-22 11:58:23,110 - INFO - Synchronization cycle complete.
+2024-11-22 11:58:28,116 - INFO - Starting synchronization cycle.
+2024-11-22 11:58:35,606 - INFO - Deleted file: replica/FEMNIST/bin/model.bin
+2024-11-22 11:58:35,606 - INFO - Deleted file: replica/FEMNIST/.DS_Store
+2024-11-22 11:58:35,607 - INFO - Deleted file: replica/FEMNIST/README.md
+2024-11-22 11:58:35,607 - INFO - Deleted file: replica/FEMNIST/.gitignore
+2024-11-22 11:58:35,607 - INFO - Removed directory: replica/FEMNIST/bin
+2024-11-22 11:58:35,607 - INFO - Removed directory: replica/FEMNIST/src
+2024-11-22 11:58:35,607 - INFO - Removed directory: replica/FEMNIST
+2024-11-22 11:58:35,607 - INFO - Synchronization cycle complete.
+2024-11-22 11:58:40,613 - INFO - Starting synchronization cycle.
+2024-11-22 11:58:47,269 - INFO - Synchronization cycle complete.
+2024-11-22 11:58:52,274 - INFO - Starting synchronization cycle.
+2024-11-22 11:58:52,353 - INFO - Copied/Updated: source/.DS_Store -> replica/.DS_Store
+2024-11-22 11:58:52,354 - INFO - Copied/Updated: source/Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf -> replica/Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf
+2024-11-22 11:58:59,026 - INFO - Synchronization cycle complete.
+2024-11-22 11:59:04,031 - INFO - Starting synchronization cycle.
+2024-11-22 11:59:11,506 - INFO - Synchronization cycle complete.
+2024-11-22 11:59:16,511 - INFO - Starting synchronization cycle.
+2024-11-22 11:59:24,123 - INFO - Synchronization cycle complete.
+2024-11-22 11:59:29,128 - INFO - Starting synchronization cycle.
+2024-11-22 11:59:29,335 - INFO - Copied/Updated: source/.DS_Store -> replica/.DS_Store
+2024-11-22 11:59:29,635 - INFO - Copied/Updated: source/SICP/README.md -> replica/SICP/README.md
+2024-11-22 11:59:36,195 - INFO - Synchronization cycle complete.
+2024-11-22 11:59:41,200 - INFO - Starting synchronization cycle.
+2024-11-22 11:59:41,299 - INFO - Copied/Updated: source/.DS_Store -> replica/.DS_Store
+2024-11-22 11:59:47,322 - INFO - Copied/Updated: source/webserver/server.c -> replica/webserver/server.c
+2024-11-22 11:59:47,323 - INFO - Copied/Updated: source/webserver/bin/main -> replica/webserver/bin/main
+2024-11-22 11:59:47,673 - INFO - Synchronization cycle complete.
+2024-11-22 11:59:52,678 - INFO - Starting synchronization cycle.
+2024-11-22 11:59:52,753 - INFO - Copied/Updated: source/.DS_Store -> replica/.DS_Store
+2024-11-22 11:59:59,492 - INFO - Copied/Updated: source/webserver/.DS_Store -> replica/webserver/.DS_Store
+2024-11-22 11:59:59,893 - INFO - Deleted file: replica/webserver/bin/main
+2024-11-22 11:59:59,894 - INFO - Deleted file: replica/webserver/server.c
+2024-11-22 11:59:59,895 - INFO - Removed directory: replica/webserver/bin
+2024-11-22 11:59:59,895 - INFO - Synchronization cycle complete.
+2024-11-22 12:00:04,900 - INFO - Starting synchronization cycle.
+2024-11-22 12:00:05,126 - INFO - Copied/Updated: source/.DS_Store -> replica/.DS_Store
+2024-11-22 12:00:11,482 - INFO - Copied/Updated: source/webserver/.DS_Store -> replica/webserver/.DS_Store
+2024-11-22 12:00:11,874 - INFO - Synchronization cycle complete.
+2024-11-22 12:00:16,880 - INFO - Starting synchronization cycle.
+2024-11-22 12:00:23,444 - INFO - Synchronization cycle complete.
+2024-11-22 12:00:28,449 - INFO - Starting synchronization cycle.
+2024-11-22 12:00:28,677 - INFO - Copied/Updated: source/.DS_Store -> replica/.DS_Store
+2024-11-22 12:00:33,248 - INFO - Synchronization interrupted by user.
