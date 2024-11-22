@@ -50,7 +50,7 @@ def calculate_md5(file_path):
 def sync_folders(source, replica):
     """Synchronize source folder with replica folder."""
 
-    # Add new directories to the source 
+    # Add new directories to the replica 
     for root, dirs, files in os.walk(source):
         for directory in dirs:
             source_dir = os.path.join(root, directory)
@@ -60,7 +60,7 @@ def sync_folders(source, replica):
                 os.makedirs(replica_dir, exist_ok=True)
 
 
-    # Add or modified files to the replica
+    # Add new or modified files to the replica
     source_contents = set()
     for root, _, files in os.walk(source):
         for file in files:
@@ -81,7 +81,7 @@ def sync_folders(source, replica):
                 except FileNotFoundError as e:
                     logging.error(f"File not found: {e}")
 
-    # Remove directories files that are no longer in the source
+    # Remove directories or files that are no longer in the source
     for root, dirs, files in os.walk(replica, topdown=False):  
         for file in files:
             replica_path = os.path.relpath(os.path.join(root, file), replica)
